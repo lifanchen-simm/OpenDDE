@@ -42,5 +42,4 @@ RUN uv pip install --system --break-system-packages --torch-backend cu126 -e '.[
     opendde --help >/dev/null
 
 VOLUME ["/opendde_data"]
-
 CMD ["opendde", "--help"]

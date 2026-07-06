@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 # Copyright 2025 Shad Nygren, Virtual Hipster Corporation
 # Contributed to the OpenDDE project under the Apache License 2.0
 

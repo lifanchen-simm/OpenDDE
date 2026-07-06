@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 """Fold-CP migration scaffolding for OpenDDE inference."""
 
 from opendde.distributed.foldcp.config import FoldCPConfig

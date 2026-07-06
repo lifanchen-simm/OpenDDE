@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 set -euo pipefail
-
 DEFAULT_DATA_BASE_URL="https://aureka-s3-opendde.s3.us-west-2.amazonaws.com"
 DEFAULT_DEPENDENCY_URL="https://huggingface.co/aurekaresearch/OpenDDE/resolve/main"
 DEFAULT_COMMON_URL="${DEFAULT_DEPENDENCY_URL}/common"

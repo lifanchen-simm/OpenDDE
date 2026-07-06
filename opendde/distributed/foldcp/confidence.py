@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 """Fold-CP helpers for confidence-head pair logits."""
 
 from __future__ import annotations

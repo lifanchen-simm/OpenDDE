@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 """Fold-CP point-to-point and 2D ring communication primitives."""
 
 from __future__ import annotations

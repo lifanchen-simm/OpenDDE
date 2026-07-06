@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 """Golden tests for the typed config view (opendde.config.schema).
 
 These guard the behaviour-preserving migration: the typed ``OpenDDEConfig`` must

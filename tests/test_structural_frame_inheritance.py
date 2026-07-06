@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 import numpy as np
 from biotite.structure import AtomArray
 from biotite.structure.bonds import BondList

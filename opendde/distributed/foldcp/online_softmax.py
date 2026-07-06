@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 """Numerically stable online softmax accumulation used by Fold-CP attention."""
 
 from __future__ import annotations

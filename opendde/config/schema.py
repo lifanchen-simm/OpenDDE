@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 """Typed schema for the OpenDDE inference configuration.
 
 The merge/CLI engine in :mod:`opendde.config.config` still produces a fully

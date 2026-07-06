@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 import gc
 from contextlib import contextmanager, nullcontext
 from typing import Sequence

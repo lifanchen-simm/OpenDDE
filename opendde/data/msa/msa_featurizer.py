@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 import dataclasses
 from os.path import exists as opexists
 from os.path import join as opjoin

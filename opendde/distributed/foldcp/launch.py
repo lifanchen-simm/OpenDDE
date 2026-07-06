@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 """Fold-CP CUDA launch-shape helpers.
 
 These helpers keep distributed local-shard projections on the same deterministic

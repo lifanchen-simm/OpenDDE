@@ -1,5 +1,6 @@
 # AGENTS.md — OpenDDE Agent Guide
 
+
 This file applies to the whole repository unless a deeper `AGENTS.md` overrides it.
 
 ## Core rules

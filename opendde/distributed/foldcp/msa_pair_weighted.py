@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 """Fold-CP implementation of MSA pair weighted averaging core."""
 
 from __future__ import annotations

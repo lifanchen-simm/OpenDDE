@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 """Benchmark and validation metrics for Fold-CP tasks."""
 
 from __future__ import annotations

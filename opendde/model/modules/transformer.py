@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 import os
 from functools import partial
 from typing import Any, Optional, Union, cast

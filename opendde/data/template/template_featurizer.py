@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 Aureka AI Research
 import dataclasses
 from typing import Any, Dict, List, Mapping, Optional, Sequence
 
