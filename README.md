@@ -20,7 +20,7 @@ OpenDDE is an open-source, all-atom biomolecular foundation model that turns co-
 
 ## News
 
-- **2026-07-03: We release OpenDDE-preview, small but first step for co-folding! Read the [technical report](https://arxiv.org/abs/2607.03787) and visit the [project website](https://aurekaresearch.github.io/OpenDDE-Website).**
+- **2026-07-03: We release OpenDDE-preview (co-folding)! Read the [technical report](https://arxiv.org/abs/2607.03787) and visit the [website](https://aurekaresearch.github.io/OpenDDE-Website).**
     - Model weights can be downloaded from Hugging Face: [opendde.pt](https://huggingface.co/aurekaresearch/OpenDDE/resolve/main/opendde.pt) | [opendde_abag.pt](https://huggingface.co/aurekaresearch/OpenDDE/resolve/main/opendde_abag.pt)
     - The Docker image can be pulled with `docker pull aurekaresearch/opendde:v1`
     - The 2026ARK-AB Benchmark is now available
