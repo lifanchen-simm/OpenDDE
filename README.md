@@ -291,6 +291,6 @@ AlphaFold 3, Protenix, OpenFold, and ColabFold.
 
 OpenDDE is released under the Apache-2.0 license. See [LICENSE](https://github.com/aurekaresearch/OpenDDE/blob/main/LICENSE).
 
-## Hiring
+## Partnership and Collaboration
 
 ![Hiring](https://raw.githubusercontent.com/aurekaresearch/OpenDDE/main/assets/hiring.png)
